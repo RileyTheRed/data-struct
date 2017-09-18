@@ -1,6 +1,7 @@
 /**
 This is the tester program for the dynarr.h file
 
+Last edited: 9-18-17
 Author: Riley Wells
 */
 
