@@ -1,0 +1,27 @@
+Pointers and Stuff
+	-* operator
+	-& operator
+		-in c++ its also a reference parameter
+	-dot(.) operator
+		-(->) member access operator
+		-pointerVaribaleName->memberVaraible
+
+	-pointer variables MUST be initialized
+		-if target not yet know, initialize to nullpt(c++14)
+
+Dynamic Variables
+	-two operators
+		new:creates dynamic variables
+		delete:destroys dynamic variables
+	
+	-everytime you delete a selected pointer, so to NULL afterwards
+	
+Function parameters
+	-if the alst symbol before the parameter is *, then the 
+	parameter is a pointer variable passed by value. may modify the 	target
+
+	if the last symbol before the parameter is &, then the 
+	parameter is a pointer variable passed by reference. may modify
+	the reference
+
+Shallow vs. Deep Copy

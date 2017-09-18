@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/godgetsgreens/Documents/Data Structures/Projects/Project 2/dynarray/work_dir/dynarr.h
+cassert
+-
+iostream
+-
+string
+-
+
+/home/godgetsgreens/Documents/Data Structures/Projects/Project 2/dynarray/work_dir/main.cpp
+dynarr.h
+/home/godgetsgreens/Documents/Data Structures/Projects/Project 2/dynarray/work_dir/dynarr.h
+

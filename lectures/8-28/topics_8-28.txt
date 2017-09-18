@@ -1,0 +1,5 @@
+Analyisis of algorithms - ch4.2
+	-big-oh notation*(question on exam 1)
+	-prefix averages
+	-review properties of log
+

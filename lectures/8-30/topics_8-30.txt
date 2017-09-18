@@ -1,0 +1,10 @@
+Abstract Data Types
+	-representation: class
+	-ex: stack (5.1)
+		--last in first out
+		--array based stack
+
+	-Queues (5.2)
+		--first in first out
+		
+
